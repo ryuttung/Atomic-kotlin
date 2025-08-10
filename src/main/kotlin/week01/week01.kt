@@ -2,8 +2,6 @@ package week01
 
 import kotlin.text.iterator
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     //1. 코드의 출력 결과는? 7.5
     val a = 5
